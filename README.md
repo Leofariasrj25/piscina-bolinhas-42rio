@@ -56,7 +56,7 @@ O objetivo é criar um programa que é protegido por senha e que não irá abrir
 
 ### Bônus
 >bônus 1: faça com que o usuário e senha sejam armazenados em um arquivo de texto separado
- >bônus 2: mostre uma forma de hackear o seu próprio programa
+>bônus 2: mostre uma forma de hackear o seu próprio programa
 
 
 ## Desafio 3 - FizzBuzz (fácil - 1 ponto)
@@ -97,13 +97,13 @@ Neste desafio lhe serão dados diversos números e você irá precisar calcular 
 
 ### Exemplo
 >input
-3
-11 9 1
-14 90 232
-111 15 111
+>3
+>11 9 1
+>14 90 232
+>111 15 111
 
 >output
-1 16 21
+>1 16 21
 
 ## Desafio 5 - Fibonacci (intermediário - 3 pontos)
 ### Descrição e Objetivo
