@@ -40,9 +40,13 @@ linhas contendo caracteres minúsculos (caixa baixa) em português e espaços
 
 ### exemplo
 >4 
+
 >abracadabra 
+
 >pear tree 
+
 >o a kak ushakov lil vo kashu kakao 
+
 >my pyx 
 
 >answer: 
@@ -98,12 +102,17 @@ Neste desafio lhe serão dados diversos números e você irá precisar calcular 
 
 ### Exemplo
 >input
+
 >3
+
 >11 9 1
+
 >14 90 232
+
 >111 15 111
 
 >output
+
 >1 16 21
 
 ## Desafio 5 - Fibonacci (intermediário - 3 pontos)
