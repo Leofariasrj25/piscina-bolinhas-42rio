@@ -40,12 +40,13 @@ linhas contendo caracteres minúsculos (caixa baixa) em português e espaços
 
 ### exemplo
 >4 
-abracadabra 
-pear tree 
-o a kak ushakov lil vo kashu kakao 
-my pyx 
+>abracadabra 
+>pear tree 
+>o a kak ushakov lil vo kashu kakao 
+>my pyx 
 
->answer: 5 4 13 2 
+>answer: 
+>5 4 13 2 
 
 
 ## Desafio 2 - Protegido por Senha (fácil - 1 ponto)
