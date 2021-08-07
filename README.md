@@ -33,7 +33,8 @@ Parece simples e bobinho mas esta é uma técnica é importante em estratégias 
 
 ### Input
 >n - o número de linhas que serão inseridas
-linhas contendo caracteres minúsculos (caixa baixa) em português e espaços
+
+>linhas contendo caracteres minúsculos (caixa baixa) em português e espaços
 
 ### Output
 >Deve conter o número de vogais em cada linha, separado por espaços
@@ -50,6 +51,7 @@ linhas contendo caracteres minúsculos (caixa baixa) em português e espaços
 >my pyx 
 
 >answer: 
+
 >5 4 13 2 
 
 
@@ -61,6 +63,7 @@ O objetivo é criar um programa que é protegido por senha e que não irá abrir
 
 ### Bônus
 >bônus 1: faça com que o usuário e senha sejam armazenados em um arquivo de texto separado
+
 >bônus 2: mostre uma forma de hackear o seu próprio programa
 
 
@@ -84,6 +87,7 @@ Este desafio é feito pra lhe introduzir ao básico de sistemas numéricos. Vamo
 Todo número maior do que 9 é representado por vários dígitos, sendo assim nós podemos calcular a soma destes dígitos.  Por exemplo, para os números 1984 e 1776 nós temos:
 
 > 1 + 9 + 8 + 4 = 22
+
 > 1 + 7 + 7 + 6 = 21
 
 Neste desafio lhe serão dados diversos números e você irá precisar calcular a soma de seus respectivos dígitos.
